@@ -1,4 +1,4 @@
-publisher_mail_ext
+Publisher Mail Extension
 ==================
 
 Email Extension for Publisher Add-on
